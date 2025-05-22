@@ -21,4 +21,4 @@ Este repositório foi criado para apresentar os conceitos fundamentais dos tipos
 ## 📁 Estrutura dos arquivos
 - `tipos_de_dados_primitivos.md`: falas dos colegas sobre tipos primitivos
 - `tipos_abstratos_de_dados.md`: falas sobre TADs e suas aplicações
-- `exemplos/`: exemplos em código
+- `exemplos/`: exemplos em código.
