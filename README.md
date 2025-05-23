@@ -70,7 +70,7 @@ Este repositório foi desenvolvido de forma colaborativa entre os participantes 
 
 ## 👨‍🏫 Slide & Apostila
 
-- Slides apresentados na oficina: fornecidos por Ian
+- Slides apresentados na oficina: fornecidos por Ian e João Pedro
 - Apostila: inclui glossário e resumo teórico
 
 ---
