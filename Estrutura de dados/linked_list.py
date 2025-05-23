@@ -1,3 +1,12 @@
+# Estrutura de Dados: Lista Ligada (Linked List)
+#
+# Uma lista ligada é composta por nós, onde cada nó armazena um valor
+# e uma referência para o próximo nó da sequência.
+# É eficiente para inserções e remoções em posições específicas,
+# mas menos eficiente para acesso direto.
+# Este exemplo implementa uma lista ligada simples com inserção, remoção
+# e exibição dos elementos.
+
 class Node:
     def __init__(self, data):
         self.data = data
