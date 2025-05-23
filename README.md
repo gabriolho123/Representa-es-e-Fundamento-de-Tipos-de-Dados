@@ -32,11 +32,11 @@ Este repositório contém os materiais produzidos para a oficina de Representaç
 
 ### 📌 Bonus
 - Implementações adicionais de estruturas: fila, pilha, árvore, lista ligada, conjunto, dicionário
-- Arquivo: [`Bonus.py`](Exemplos/Bonus.py)
+- Arquivo: [`Conversao_de_Tipos.py`](Exemplos/Conversao_de_Tipos.py)
 
 ### 📌 Glossário
 - Termos importantes utilizados na oficina com definições
-- Arquivo: [`glossario.md`](glossario.md)
+- Arquivo: [`glossario.md`](glossario.md) 
 
 ---
 
