@@ -77,10 +77,10 @@ Este repositório foi desenvolvido de forma colaborativa entre os participantes 
 
 ## ✍️ Participantes
 
-- Gabriel Marafante
-- Arthur Lobato
-- Willian
-- Ian
-- João Pedro
-- Kauãn
-- Gabriel Soares 
+- Gabriel Marafante(Criador)
+- Arthur Lobato(Criador)
+- Willian (Apostilas: Glossário + resumo teórico)
+- Ian(Apostilas: Glossário + resumo teórico + slides)
+- João Pedro(Slide + Trilha prática + exercícios problema(atividade guiadas com exemplos)
+- Kauãn (Apostilas: Glossário + resumo teorico)
+- Gabriel Soares (Trilha prática + exercícios problema(atividade guiadas com exemplos) 
