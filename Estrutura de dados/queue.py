@@ -1,4 +1,5 @@
-As listas são estruturas de dados que armazenam vários valores em uma única variável. Elas permitem acesso, modificação e ordenação de elementos.class Queue:
+As listas são estruturas de dados que armazenam vários valores em uma única variável. Elas permitem acesso, modificação e ordenação de elementos.
+class Queue:
     def __init__(self):
         self.items = []
 
