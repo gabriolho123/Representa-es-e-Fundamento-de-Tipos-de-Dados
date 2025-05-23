@@ -1,6 +1,4 @@
 
-# Tipos Primitivos de Dados 
-
 Quais são os tipos primitivos de dados?
 Relembrando:
 
