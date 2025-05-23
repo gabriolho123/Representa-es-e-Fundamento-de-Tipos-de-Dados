@@ -1,3 +1,11 @@
+# Estrutura de Dados: Árvore Binária (Binary Tree)
+#
+# Uma árvore binária é uma estrutura hierárquica onde cada nó tem
+# no máximo dois filhos: esquerdo e direito.
+# É útil para busca, ordenação e organização de dados.
+# Este exemplo implementa uma árvore binária básica com inserção e travessia
+# em ordem (in-order traversal).
+
 class Node:
     def __init__(self, valor):
         self.valor = valor
