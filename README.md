@@ -38,6 +38,28 @@ Este repositório contém os materiais produzidos para a oficina de Representaç
 - Termos importantes utilizados na oficina com definições
 - Arquivo: [`glossario.md`](glossario.md) 
 
+### 📌 estrutura-de-dados-python/
+│
+├── README.md
+│
+├── fila/
+│   └── queue.py
+│
+├── lista_encadeada/
+│   └── linked_list.py
+│
+├── arvore_binaria/
+│   └── binary_tree.py
+│
+├── tabela_hash/
+│   └── hash_table.py
+│
+├── conjunto/
+│   └── my_set.py
+│
+└── array_dinamico/
+    └── dynamic_array.py
+
 ---
 
 ## 🔄 Produção Colaborativa
