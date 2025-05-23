@@ -31,7 +31,7 @@ Este repositório contém os materiais produzidos para a oficina de Representaç
 - Complementar: [`tads.md`](tads.md)
 
 ### 📌 Bonus
-- Implementações adicionais de estruturas: fila, pilha, árvore, lista ligada, conjunto, dicionário
+- Implementações adicionais de estruturas: - `Conversao_de_Tipos.py`: Exibe exemplos de conversões entre tipos primitivos (int, str, float, list, set).
 - Arquivo: [`Conversao_de_Tipos.py`](Exemplos/Conversao_de_Tipos.py)
 
 ### 📌 Glossário
