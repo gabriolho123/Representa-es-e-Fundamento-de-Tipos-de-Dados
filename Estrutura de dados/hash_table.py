@@ -1,3 +1,12 @@
+# Estrutura de Dados: Tabela Hash (Hash Table)
+#
+# Uma tabela hash é uma estrutura que armazena pares chave-valor.
+# Utiliza uma função hash para mapear chaves a índices de forma eficiente.
+# Muito usada para buscas rápidas, como dicionários em Python.
+# Este exemplo implementa uma tabela hash simples com inserção, busca
+# e remoção de elementos.
+
+
 class HashTable:
     def __init__(self, size):
         self.size = size
