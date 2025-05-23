@@ -1,3 +1,11 @@
+# Estrutura de Dados: Array Dinâmico (Dynamic Array)
+#
+# Um array dinâmico é como uma lista comum em Python,
+# mas com gerenciamento interno de capacidade.
+# Ele permite crescer automaticamente quando mais espaço é necessário.
+# Este exemplo simula o comportamento de um array dinâmico com métodos para
+# adicionar, remover e acessar elementos.
+
 class ArrayDinamico:
     def __init__(self):
         self.array = []
