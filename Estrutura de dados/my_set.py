@@ -1,3 +1,10 @@
+# Estrutura de Dados: Conjunto (Set)
+# 
+# Um conjunto é uma coleção de elementos únicos, ou seja, não permite repetição.
+# É útil para verificar se um item existe ou remover duplicatas.
+# Este exemplo implementa um conjunto simples com métodos para adicionar, remover,
+# verificar existência e exibir os elementos.
+
 class MeuConjunto:
     def __init__(self):
         self.elementos = []
